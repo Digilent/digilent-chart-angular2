@@ -1,4 +1,4 @@
 examples
 node_modules
 src
-*.ngFactory.ts
+*.ngfactory.ts
