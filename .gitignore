@@ -4,3 +4,10 @@ jspm_packages
 .idea
 lib
 build
+/dist
+*.metadata.json
+*.js.map
+*.component.js
+*.interface.js
+*.module.js
+src/*.d.ts

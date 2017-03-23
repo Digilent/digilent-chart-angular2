@@ -1,1 +1,0 @@
-exports.DigilentChart = require('./lib/digilent-chart.component').DigilentChart;
