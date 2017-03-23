@@ -1,6 +1,6 @@
 {
   "name": "digilent-chart-angular2",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Chart module for Angular2",
   "main": "index.js",
   "scripts": {

@@ -12,7 +12,8 @@
         ],
         "noImplicitAny": true,
         "suppressImplicitAnyIndexErrors": true,
-        "declaration": true
+        "declaration": true,
+        "outDir": "./dist"
     },
     "files": [
         "src/digilent-chart.module.ts",
