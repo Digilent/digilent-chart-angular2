@@ -83,6 +83,7 @@ export class DigilentChart {
     }
 
     setNearestPresetSecPerDivVal() {
+        if (this.flotOptions.zoomPan == undefined) { return; }
         let getAxes = this.digilentChart.getAxes();
         let newSecPerDivVal = (getAxes.xaxis.max - getAxes.xaxis.min) / 10;
         let secsPerDivArray = this.digilentChart.getSecsPerDivArray();
